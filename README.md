@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Remulos44
-- 🌱 Currently a 1st year Computer Science student at Uni ^^
+- 🌱 Currently a 1st year Computer Science student at University.
 
 <!---
 Remulos44/Remulos44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
